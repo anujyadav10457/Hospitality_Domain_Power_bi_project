@@ -1,6 +1,6 @@
 # Important
-Hotel_final.pbix is the main project file,
-CSV file are data containing file and
+Hotel_final.pbix is the main project file,  
+CSV file are data containing file and  
 **README** file you are just reading bro😅
 
 # Hotel Revenue Management Dashboard
